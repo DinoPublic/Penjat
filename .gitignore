@@ -1,15 +1,48 @@
+# --- Laravel Core ---
 /node_modules
+/public/build
 /public/hot
 /public/storage
-/storage/*.key
 /vendor
+
+# --- Environment & Keys ---
 .env
 .env.backup
+.env.production
+/storage/*.key
+/storage/pail
+
+# --- Testing & Logs ---
 .phpunit.result.cache
-docker-compose.override.yml
+/.phpunit.cache
+*.log
+
+# --- AI & Tools ---
+.claude/
+.claude
+.cline/
+CLAUDE.md
+
+# --- Custom Public Folders ---
+/public/_elfinder
+/public/_HERRAMIENTAS_COMERCIALES
+/public/_old
+/public/log
+/public/log_ofertas
+/public/uploads
+/public/configurador/
+/public/campañas/
+/public/old/
+/public/imports/
+
+# --- Local Development (IDEs) ---
+.DS_Store
+.idea/
+.vscode/
+.nova/
+.fleet/
+.zed/
+/auth.json
 Homestead.json
 Homestead.yaml
-npm-debug.log
-yarn-error.log
-/.idea
-/.vscode
+Thumbs.db
