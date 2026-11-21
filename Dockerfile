@@ -9,7 +9,7 @@ RUN apt-get update && apt-get install -y \
 
 # Instala Opcache (revalida ficheros para ver cambios sin reiniciar)
 RUN docker-php-ext-install opcache \
-    && printf "opcache.enable=1\nopcache.memory_consumption=128\nopcache.interned_strings_buffer=8\nopcache.max_accelerated_files=10000\nopcache.validate_timestamps=1\nopcache.revalidate_freq=0\n" > /usr/local/etc/php/conf.d/opcache.ini
+    && printf "opcache.enable=1\nopcache.memory_consumption=128\nopcache.interned_strings_buffer=8\nopcache.max_accelerated_files=10000\nopcache.validate_timestamps=1\nopcache.revalidate_freq=2\n" > /usr/local/etc/php/conf.d/opcache.ini
 
 # Instala Composer
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer

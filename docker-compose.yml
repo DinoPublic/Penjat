@@ -1,10 +1,15 @@
 services:
   web:
     build: .
-    container_name: dinowebb.penjat-marvel
+    container_name: Penjat
     ports:
       - "8002:80"
     volumes:
       - .:/var/www/html
+      # vendor en volumen de Docker: evita leer miles de ficheros desde el disco de Windows (muy lento)
+      - vendor:/var/www/html/vendor
     extra_hosts:
       - "host.docker.internal:host-gateway"
+
+volumes:
+  vendor:
