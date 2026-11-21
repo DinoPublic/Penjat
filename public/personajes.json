@@ -1,23 +1,23 @@
 [
 	{
 		"id": "1",
-		"value": "Ant-Man"
+		"value": "Hombre Hormiga"
 	},
 	{
 		"id": "2",
-		"value": "The Avengers"
+		"value": "Los Vengadores"
 	},
 	{
 		"id": "3",
-		"value": "Black Panther"
+		"value": "Pantera Negra"
 	},
 	{
 		"id": "4",
-		"value": "Captain America"
+		"value": "Capitan America"
 	},
 	{
 		"id": "5",
-		"value": "Captain Marvel"
+		"value": "Capitana Marvel"
 	},
 	{
 		"id": "6",
@@ -25,7 +25,7 @@
 	},
 	{
 		"id": "7",
-		"value": "The Defenders"
+		"value": "Los Defensores"
 	},
 	{
 		"id": "8",
@@ -37,28 +37,29 @@
 	},
 	{
 		"id": "10",
-		"value": "Fantastic Four"
+		"value": "Los Cuatro Fantasticos"
 	},
 	{
 		"id": "11",
-		"value": "Ghost Rider"
+		"value": "El Motorista Fantasma"
 	},
 	{
 		"id": "12",
-		"value": "Guardians of the Galaxy"
+		"value": "Guardianes de la Galaxia"
 	},
 	{
 		"id": "13",
-		"value": "Hawkeye"
+		"value": "Ojo de Halcon"
 	},
 	{
 		"id": "14",
-		"value": "Incredible Hulk"
+		"value": "El Increible Hulk"
 	},
 	{
 		"id": "15",
 		"value": "Iron Fist"
-	},{
+	},
+	{
 		"id": "16",
 		"value": "Iron Man"
 	},
@@ -76,15 +77,15 @@
 	},
 	{
 		"id": "20",
-		"value": "The Wasp"
+		"value": "La Avispa"
 	},
 	{
 		"id": "21",
-		"value": "Wolverine"
+		"value": "Lobezno"
 	},
 	{
 		"id": "22",
-		"value": "X-Men"
+		"value": "Patrulla X"
 	},
 	{
 		"id": "23",
@@ -92,6 +93,134 @@
 	},
 	{
 		"id": "24",
-		"value": "Aquaman"
+		"value": "Viuda Negra"
+	},
+	{
+		"id": "25",
+		"value": "Bruja Escarlata"
+	},
+	{
+		"id": "26",
+		"value": "Vision"
+	},
+	{
+		"id": "27",
+		"value": "Loki"
+	},
+	{
+		"id": "28",
+		"value": "Thanos"
+	},
+	{
+		"id": "29",
+		"value": "Deadpool"
+	},
+	{
+		"id": "30",
+		"value": "Tormenta"
+	},
+	{
+		"id": "31",
+		"value": "Ciclope"
+	},
+	{
+		"id": "32",
+		"value": "Bestia"
+	},
+	{
+		"id": "33",
+		"value": "Gambito"
+	},
+	{
+		"id": "34",
+		"value": "Coloso"
+	},
+	{
+		"id": "35",
+		"value": "Estela Plateada"
+	},
+	{
+		"id": "36",
+		"value": "Galactus"
+	},
+	{
+		"id": "37",
+		"value": "Doctor Muerte"
+	},
+	{
+		"id": "38",
+		"value": "Duende Verde"
+	},
+	{
+		"id": "39",
+		"value": "Doctor Octopus"
+	},
+	{
+		"id": "40",
+		"value": "Mysterio"
+	},
+	{
+		"id": "41",
+		"value": "Veneno"
+	},
+	{
+		"id": "42",
+		"value": "El Castigador"
+	},
+	{
+		"id": "43",
+		"value": "La Cosa"
+	},
+	{
+		"id": "44",
+		"value": "Antorcha Humana"
+	},
+	{
+		"id": "45",
+		"value": "Mujer Invisible"
+	},
+	{
+		"id": "46",
+		"value": "Mister Fantastico"
+	},
+	{
+		"id": "47",
+		"value": "Soldado de Invierno"
+	},
+	{
+		"id": "48",
+		"value": "Nick Furia"
+	},
+	{
+		"id": "49",
+		"value": "Groot"
+	},
+	{
+		"id": "50",
+		"value": "Rocket"
+	},
+	{
+		"id": "51",
+		"value": "Gamora"
+	},
+	{
+		"id": "52",
+		"value": "Drax el Destructor"
+	},
+	{
+		"id": "53",
+		"value": "Ultron"
+	},
+	{
+		"id": "54",
+		"value": "Shang-Chi"
+	},
+	{
+		"id": "55",
+		"value": "Hulka"
+	},
+	{
+		"id": "56",
+		"value": "Kang el Conquistador"
 	}
 ]
